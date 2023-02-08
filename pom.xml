@@ -5,7 +5,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
@@ -39,7 +39,7 @@
     <connection>scm:git:git@github.com:khanhtran/my-app.git</connection>
     <url>scm:git:git@github.com:khanhtran/my-app.git</url>
     <developerConnection>scm:git:git@github.com:khanhtran/my-app.git</developerConnection>
-    <tag>v1.3</tag>
+    <tag>HEAD</tag>
   </scm>
   <build>
     <plugins>
